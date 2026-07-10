@@ -6,6 +6,42 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/_DOTweenLesson/Scenes/00_DemoHub.unity
+    guid: 407aff9e23a00904991d10b4fdf802c6
+  - enabled: 1
+    path: Assets/_DOTweenLesson/Scenes/01_Interpolation_Lerp.unity
+    guid: f922e5d47743a6243a011b0f970164c1
+  - enabled: 1
+    path: Assets/_DOTweenLesson/Scenes/02_EaseGraph_Comparison.unity
+    guid: 7501e98324c7ff344988cdb8624d4ecc
+  - enabled: 1
+    path: Assets/_DOTweenLesson/Scenes/03_DOTween_TransformBasic.unity
+    guid: d01ba3b2d9e5d6f4097ed4c5beaf25ba
+  - enabled: 1
+    path: Assets/_DOTweenLesson/Scenes/04_UI_ButtonFeedback.unity
+    guid: bdd401baccd82784f99298f5d1ca8971
+  - enabled: 1
+    path: Assets/_DOTweenLesson/Scenes/05_UI_Popup.unity
+    guid: 2c237704c64c80e4c86d0e5fbe285cba
+  - enabled: 1
+    path: Assets/_DOTweenLesson/Scenes/06_Game_ItemCollect.unity
+    guid: 7900655ecb284f14db4a4a3eebe75793
+  - enabled: 1
+    path: Assets/_DOTweenLesson/Scenes/07_Game_HitFeedback.unity
+    guid: 31a181a69ff72924096a96a48f643417
+  - enabled: 1
+    path: Assets/_DOTweenLesson/Scenes/08_Game_QuestMarker.unity
+    guid: dc3a9db6e832b4f409c912118bbf07f3
+  - enabled: 1
+    path: Assets/_DOTweenLesson/Scenes/09_Game_RewardSequence.unity
+    guid: 6818be41746ad3e488bd9cf111e25be4
+  - enabled: 1
+    path: Assets/_DOTweenLesson/Scenes/10_CardHover_Select.unity
+    guid: b02631e01efd6a949aa91c54683302d3
+  - enabled: 1
+    path: Assets/_DOTweenLesson/Scenes/11_CameraShake_TimeScale.unity
+    guid: a9c71eaf76b6d8c41b3e4732ac2d9ac5
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
